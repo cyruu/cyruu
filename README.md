@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Cyrus Maharjan</h1>
 <h3 align="center">I'm a student and a passionate learner. Learning how web really works.</h3>
+---
 [![](https://visitcount.itsvg.in/api?id=cyruu&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🌱 I’m currently learning **MERN**
 
