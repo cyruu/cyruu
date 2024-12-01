@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Cyrus Maharjan</h1>
 <h3 align="center">I'm a student and a passionate learner. Learning how web really works.</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m a Full Stack Developer.
 
 - 🧾 My Portfolio <a href="https://www.cyrusmaharjan.com.np/" target="_blank">cyrusmaharjan.com.np</a>
 
