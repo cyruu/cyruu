@@ -1,7 +1,7 @@
 ---
 
 <h1 align="center">Hi, I'm Cyrus Maharjan</h1>
-<h3 align="center">I am a Web Developer buy I am not Spiderman.</h3>
+<h3 align="center">I am a Web Developer but I am not Spiderman.</h3>
 
 
 - 🌱 I’m a Full Stack Developer.
