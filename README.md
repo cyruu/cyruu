@@ -1,10 +1,11 @@
 ---
 
 <h1 align="center">Hi, I'm Cyrus Maharjan</h1>
-<h3 align="center">I'm a student and a passionate learner. Learning how web really works.</h3>
+<h3 align="center">I am a Web Developer buy I am not Spiderman.</h3>
+
 
 - 🌱 I’m a Full Stack Developer.
-
+- Student and a passionate learner. Learning how web really works
 - 🧾 My Portfolio <a href="https://www.cyrusmaharjan.com.np/" target="_blank">cyrusmaharjan.com.np</a>
 
 <h3 align="left">Connect with me:</h3>
